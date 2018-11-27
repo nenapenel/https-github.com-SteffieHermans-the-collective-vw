@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     
     var refNames: DatabaseReference!
 
+    //dit is een test voor de commit.
     @IBOutlet weak var voorNaam: UITextField!
     @IBOutlet weak var achterNaam: UITextField!
     @IBOutlet weak var labelMessage: UILabel!
